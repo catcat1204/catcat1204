@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm LXC</h1>
-<h3 align="center">A developer from Vietnam</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F79F18&size=23&lines=Hi+%F0%9F%91%8B%2C+I'm+LXC;I+am+a+developer+from+Vietnam)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takahatashun" alt="takahatashun" /> </p>
 
@@ -14,12 +13,8 @@
 - 📫 How to reach me **lxc@amvp.team**
 
 <hr/>
-<h3 align="center"> Stats </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahatashun&layout=compact&hide_border=true&theme=vue&hide=html" alt="takahatashun" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=takahatashun&show_icons=true&hide_border=true&theme=vue" alt="takahatashun" />
-</p>
+<h3 align="center"> Metrics </h3>
+<img align="left" width="400" alt="🦑" src="metrics.github.svg">
 <hr/>
 <h3 align="center"> Social </h3>
 <p align="center">
