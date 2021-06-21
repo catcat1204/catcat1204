@@ -14,7 +14,7 @@
 
 <hr/>
 <h3 align="center"> Metrics </h3>
-<img align="left" width="400" alt="🦑" src="metrics.github.svg">
+<img align="center" width="400" alt="🦑" src="metrics.github.svg">
 <hr/>
 <h3 align="center"> Social </h3>
 <p align="center">
