@@ -13,9 +13,3 @@
 - 👨‍💻 All of my projects are available at [https://github.com/catcat1204](https://github.com/catcat1204)
 
 - 📫 How to reach me **idk**
-
-<hr/>
-<h3 align="center"> Metrics </h3>
-<img align="center" width="400" alt="🦑" src="metrics.github.svg">
-<hr/>
-
