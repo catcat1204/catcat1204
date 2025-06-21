@@ -11,10 +11,3 @@
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
  
 - 👨‍💻 All of my projects are available at [https://github.com/catcat1204](https://github.com/catcat1204)
-
-- 📊GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=catcat1204&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=catcat1204&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=catcat1204&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
